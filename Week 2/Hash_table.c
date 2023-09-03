@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
 #define HASH_TABLE_SIZE 100
 
 struct Variable {
